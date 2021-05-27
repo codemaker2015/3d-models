@@ -1,0 +1,558 @@
+{
+  materials: [
+    {
+      name: 'Material3',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Color_007',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Color_B01',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'skp_front_default',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Color_006',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Color_002',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: '<Gray6>',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Material2',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Color_A01',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Color_000',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'Material1',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: './input/toy1.fbx',
+    name: 'toy1',
+    recenter: 'root',
+    scale: 0.15176500000000001,
+  },
+  version: '0.54:2',
+}

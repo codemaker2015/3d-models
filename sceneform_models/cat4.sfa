@@ -1,0 +1,313 @@
+{
+  materials: [
+    {
+      name: 'pink',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'light blue',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'orange',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'yellow',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'dark blue',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+    {
+      name: 'eye',
+      parameters: [
+        {
+          baseColor: '%BASE_COLOR_PLACEHOLDER%',
+        },
+        {
+          metallicRoughness: '%METALLIC_ROUGHNESS_PLACEHOLDER%',
+        },
+        {
+          normal: '%NORMAL_PLACEHOLDER%',
+        },
+        {
+          occlusion: '%OCCLUSION_PLACEHOLDER%',
+        },
+        {
+          emissive: '%EMISSIVE_PLACEHOLDER%',
+        },
+        {
+          baseColorFactor: [
+            1,
+            1,
+            1,
+            1,
+          ],
+        },
+        {
+          metallicFactor: 1,
+        },
+        {
+          roughnessFactor: 1,
+        },
+        {
+          normalFactor: 1,
+        },
+        {
+          emissiveFactor: [
+            0,
+            0,
+            0,
+            1,
+          ],
+        },
+        {
+          vertex_color_enabled: false,
+        },
+      ],
+      source: '%GENERIC_MATERIAL_UNLIT_OPAQUE%',
+    },
+  ],
+  model: {
+    attributes: [
+      'Position',
+      'TexCoord',
+      'Orientation',
+      'BoneIndices',
+      'BoneWeights',
+    ],
+    collision: {},
+    file: './input/cat4.fbx',
+    name: 'cat4',
+    recenter: 'root',
+    scale: 0.36110500000000001,
+  },
+  version: '0.54:2',
+}
